@@ -4,12 +4,12 @@ import { getAuth } from "firebase/auth"
 
 // Your web app's Firebase configuration
 const firebaseConfig = {
-  apiKey: "AIzaSyAvrtmEtuLz-P6x67Ccyh1nng7ctjmEM94",
-  authDomain: "todo-vue-fireba.firebaseapp.com",
-  projectId: "todo-vue-fireba",
-  storageBucket: "todo-vue-fireba.appspot.com",
-  messagingSenderId: "613321363663",
-  appId: "1:613321363663:web:6ec0ed5c52bc9ba5e5e7ba"
+  apiKey: {},
+  authDomain: {},
+  projectId: {},
+  storageBucket: {},
+  messagingSenderId:{},
+  appId: {}
 };
 
 // Initialize Firebase
